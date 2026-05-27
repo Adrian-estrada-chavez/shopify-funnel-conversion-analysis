@@ -1,0 +1,1 @@
+event_id,session_id,timestamp,event_type,product_id,qty,cart_size,payment,discount_pct,amount_usd
